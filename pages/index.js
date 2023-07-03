@@ -586,8 +586,8 @@ export default function Home({ publications }) {
                     eraseDelay={1500}
                     text={[
                       `Software Engineer`,
+                      `ML enthusiast`,
                       `Computer Engineer`,
-                      `Machine Learning enthusiast`,
                       `Coder Ninja`,
                     ]}
                   />
