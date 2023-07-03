@@ -585,15 +585,15 @@ export default function Home({ publications }) {
                     eraseSpeed={30}
                     eraseDelay={1500}
                     text={[
-                      `Software Developer`,
-                      `Computer Engineer`,
-                      `ML enthusiast`,
-                      `Coder Ninja`,
+                      `Frontend Developer`,
+                      `Designer`,
+                      `Teacher`,
+                      `Cat Dad`,
                     ]}
                   />
                 </h2>
                 <p className="w-4/5 text-xl md:w-full">
-                When I'm not exploring the latest developments in AI and ML, you can find me tinkering with Web Development projects or building robots just for fun.
+                  I design and build websites that look good, and work well.
                 </p>
                 <button
                   className="mt-4 btn-brand btn-lg group"
@@ -1272,10 +1272,10 @@ export default function Home({ publications }) {
                 <p className="text-lg">
                   Email me at{" "}
                   <Link
-                    href="mailto:alexismartinvalentino@gmail.com"
+                    href="mailto:danielcranney@gmail.com"
                     className="underline-link"
                   >
-                    alexismartinvalentino@gmail.com
+                    danielcranney@gmail.com
                   </Link>{" "}
                   and let&apos;s talk about your project!
                 </p>
@@ -1315,7 +1315,8 @@ export default function Home({ publications }) {
 
             <div className="flex flex-col items-start md:flex-row">
               <p className="w-auto mb-4 md:mb-0">
-                &copy; {new Date().getFullYear()} - Designed and built by Alexis Valentino
+                &copy; {new Date().getFullYear()} - Designed and built by Daniel
+                Cranney
               </p>
 
               <div className="flex md:hidden">
