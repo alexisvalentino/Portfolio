@@ -222,10 +222,10 @@ export default function Home({ publications }) {
         }`}
       >
         <Head>
-          <title>Daniel Cranney | Frontend Developer & Designer</title>
+          <title>Alexis Valentino | Frontend Developer & Designer</title>
           <meta
             name="description"
-            content="The portfolio of frontend developer and designer, Daniel Cranney"
+            content="The portfolio of frontend developer and designer, Alexis Valentino"
           />
           <link rel="icon" href="/favicon.ico" />
         </Head>
@@ -423,7 +423,7 @@ export default function Home({ publications }) {
             {/* Text */}
             <div className="flex items-center ml-4">
               <p className="text-lg font-semibold font-display tracking-tight dark:text-white text-darker mb-0 transition-all duration-150 ease-in-out">
-                Daniel Cranney
+                Alexis Valentino
               </p>
             </div>
             {/* Nav */}
@@ -576,7 +576,7 @@ export default function Home({ publications }) {
                 </span>
 
                 <h1 className="mb-4 text-5xl md:text-7xl dark:text-white text-dark">
-                  Daniel Cranney
+                  Alexis Valentino
                 </h1>
                 <h2 className="mb-4 text-3xl md:text-4xl dark:text-light text-mid">
                   <ReactTypingEffect
@@ -664,7 +664,7 @@ export default function Home({ publications }) {
                     className="overflow-hidden rounded-md"
                     width={880}
                     height={880}
-                    alt={"Daniel Cranney headshot"}
+                    alt={"Alexis Valentino headshot"}
                   />
                 </div>
               </div>
