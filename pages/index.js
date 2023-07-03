@@ -585,10 +585,10 @@ export default function Home({ publications }) {
                     eraseSpeed={30}
                     eraseDelay={1500}
                     text={[
-                      `Frontend Developer`,
-                      `Designer`,
-                      `Teacher`,
-                      `Cat Dad`,
+                      `Software Developer`,
+                      `Computer Engineer`,
+                      `ML enthusiast`,
+                      `Coder Ninja`,
                     ]}
                   />
                 </h2>
