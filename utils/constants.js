@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Reportr",
+    title: "Real-time Threat Detection Robot",
     overview: "Write reports for your students in 60 seconds or less",
     stack: ["Html", "React", "Next", "Supabase"],
     link: "http://www.reportr.io",
