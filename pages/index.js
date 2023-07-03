@@ -593,7 +593,7 @@ export default function Home({ publications }) {
                   />
                 </h2>
                 <p className="w-4/5 text-xl md:w-full">
-                  I design and build websites that look good, and work well.
+                When I'm not exploring the latest developments in AI and ML, you can find me tinkering with Web Development projects or building robots just for fun.
                 </p>
                 <button
                   className="mt-4 btn-brand btn-lg group"
