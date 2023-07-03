@@ -1315,8 +1315,7 @@ export default function Home({ publications }) {
 
             <div className="flex flex-col items-start md:flex-row">
               <p className="w-auto mb-4 md:mb-0">
-                &copy; {new Date().getFullYear()} - Designed and built by Daniel
-                Cranney
+                &copy; {new Date().getFullYear()} - Designed and built by Alexis Valentino
               </p>
 
               <div className="flex md:hidden">
