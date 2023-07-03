@@ -1272,10 +1272,10 @@ export default function Home({ publications }) {
                 <p className="text-lg">
                   Email me at{" "}
                   <Link
-                    href="mailto:danielcranney@gmail.com"
+                    href="mailto:alexismartinvalentino@gmail.com"
                     className="underline-link"
                   >
-                    danielcranney@gmail.com
+                    alexismartinvalentino@gmail.com
                   </Link>{" "}
                   and let&apos;s talk about your project!
                 </p>
