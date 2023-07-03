@@ -222,7 +222,7 @@ export default function Home({ publications }) {
         }`}
       >
         <Head>
-          <title>Alexis Valentino | Frontend Developer & Designer</title>
+          <title>Alexis Valentino | Software Engineer</title>
           <meta
             name="description"
             content="The portfolio of frontend developer and designer, Alexis Valentino"
@@ -585,15 +585,15 @@ export default function Home({ publications }) {
                     eraseSpeed={30}
                     eraseDelay={1500}
                     text={[
-                      `Frontend Developer`,
-                      `Designer`,
-                      `Teacher`,
-                      `Cat Dad`,
+                      `Software Engineer`,
+                      `Computer Engineer`,
+                      `Machine Learning enthusiast`,
+                      `Coder Ninja`,
                     ]}
                   />
                 </h2>
                 <p className="w-4/5 text-xl md:w-full">
-                  I design and build websites that look good, and work well.
+                  I design and build softwares that look good, and work well.
                 </p>
                 <button
                   className="mt-4 btn-brand btn-lg group"
@@ -1272,10 +1272,10 @@ export default function Home({ publications }) {
                 <p className="text-lg">
                   Email me at{" "}
                   <Link
-                    href="mailto:danielcranney@gmail.com"
+                    href="mailto:alexismartinvalentino@gmail.com"
                     className="underline-link"
                   >
-                    danielcranney@gmail.com
+                    alexismartinvalentino@gmail.com
                   </Link>{" "}
                   and let&apos;s talk about your project!
                 </p>
@@ -1315,8 +1315,8 @@ export default function Home({ publications }) {
 
             <div className="flex flex-col items-start md:flex-row">
               <p className="w-auto mb-4 md:mb-0">
-                &copy; {new Date().getFullYear()} - Designed and built by Daniel
-                Cranney
+                &copy; {new Date().getFullYear()} - Designed and built by Alexis
+                Valentino
               </p>
 
               <div className="flex md:hidden">
