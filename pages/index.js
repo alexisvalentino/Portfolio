@@ -341,7 +341,7 @@ export default function Home({ publications }) {
                 </li>
                 <li className="z-40 block py-2 mt-6 list-none lg:inline-block">
                   <a
-                    href={`mailto:danielcranney@gmail.com`}
+                    href={`mailto:alexismartinvalentino@gmail.com`}
                     className="text-lg btn-brand btn-lg group"
                   >
                     Hire me
@@ -511,7 +511,7 @@ export default function Home({ publications }) {
                 </li>
                 <li className="z-50 hidden ml-5 list-none lg:inline-block">
                   <a
-                    href={`mailto:danielcranney@gmail.com`}
+                    href={`mailto:alexismartinvalentino@gmail.com`}
                     className="btn-brand btn-md group"
                   >
                     Hire me
@@ -620,36 +620,42 @@ export default function Home({ publications }) {
               <div className="flex flex-col-reverse items-start w-full md:flex-row">
                 <div className="flex flex-col w-full md:pr-8 md:w-3/5">
                   <p className="text-lg">
-                    Hello! I&apos;m Dan and I&apos;m a frontend developer,
-                    designer and teacher from Bristol, England.
+                    Hello! I&apos;m Alexis and I&apos;m a Software Engineer,
+                    Machine Learning enthusiast and a Coder Ninja from Santiago, Philippines.
                   </p>
                   <p className="text-lg">
-                    After building my first website aged thirteen, I knew I
+                    After building my first website aged fourteen, I knew I
                     wanted to work with computers and technology, and I&apos;ve
-                    never looked back.
+                    never looked back. 🤸‍♂️
                   </p>
                   <p className="text-lg">
-                    After graduating University with a Media degree, I began
-                    freelancing as a designer, creating graphics, video content
-                    and websites for small businesses, using content management
-                    systems like Wordpress, Joomla and Squarespace.
+                  Even before graduating from University with a BS in Computer Engineering, 
+                  I began familiarizing myself with the software development lifecycle. 
+                  I started freelancing as a software developer for over a year, 
+                  creating websites for local businesses using React, Django, Next.js, and CMS softwares like WordPress and Shopify. 
+                  I worked with clients to understand their needs and deliver high-quality products on time and within budget 
+                  while utilizing agile development methodologies to ensure that projects were completed efficiently and effectively.
+
+                  I am also an avid Machine Learning enthusiast and enjoy building robots and tinkering with electronics. 
                   </p>
                   <p className="text-lg">
-                    In recent years, I&apos;ve been focused on programming,
-                    building a solid frontend stack and creating exciting
+                    In recent years, I&apos;ve been focused on Programming,
+                    Data structures and Algorithms, Cloud computing, Electronics,
+                    Computer Architecture, CAD and Robotics. 
+                    Building a solid foundation and creating exciting
                     projects that solve real-world problems.
                   </p>
                   <p className="text-lg">
-                    Alongside my design and development work, I run a BA Media
-                    Production degree course and a corporate video production
-                    company called{" "}
+                    Alongside my software development work, I also have a Background on
+                    Radio Production as a Radio Traffic and Digital media Assistant on
+                    {" "}
                     <a
                       href="http://www.wearespotlight.co.uk"
                       target="_blank"
                       className="underline-link"
                       rel="noreferrer"
                     >
-                      Spotlight Media
+                      Love Radio Santiago
                     </a>
                     , so I like to keep busy!
                   </p>
