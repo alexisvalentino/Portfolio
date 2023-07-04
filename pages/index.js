@@ -620,8 +620,7 @@ export default function Home({ publications }) {
               <div className="flex flex-col-reverse items-start w-full md:flex-row">
                 <div className="flex flex-col w-full md:pr-8 md:w-3/5">
                   <p className="text-lg">
-                    Hello! I&apos;m Alexis and I&apos;m a Software Engineer,
-                    Machine Learning enthusiast and a Coder Ninja from Santiago, Philippines.
+                    Hello! I&apos;m Alexis and I&apos;m a Software Engineer from Santiago, Philippines.
                   </p>
                   <p className="text-lg">
                     After building my first website aged fourteen, I knew I
