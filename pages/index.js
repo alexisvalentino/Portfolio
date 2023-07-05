@@ -638,9 +638,10 @@ export default function Home({ publications }) {
                   I am also an avid Machine Learning enthusiast and enjoy building robots and tinkering with electronics. 
                   </p>
                   <p className="text-lg">
-                    In recent years, I&apos;ve been focused on Programming,
-                    Data structures and Algorithms, Cloud computing, Electronics,
-                    Computer Architecture, CAD and Robotics. 
+                    In recent years, I&apos;ve been focused on Software Development,
+                    DevOps, Robotics, Cloud Computing, Data Structures and Algorithms,
+                    Network Architecture, Electronics, Signal Processing,
+                    CAD and Operating systems.
                     Building a solid foundation and creating exciting
                     projects that solve real-world problems.
                   </p>
@@ -649,7 +650,7 @@ export default function Home({ publications }) {
                     Radio Production as a Radio Traffic and Digital media Assistant on
                     {" "}
                     <a
-                      href="http://www.wearespotlight.co.uk"
+                      href="https://www.loveradio.com.ph/santiago/listen-live/"
                       target="_blank"
                       className="underline-link"
                       rel="noreferrer"
