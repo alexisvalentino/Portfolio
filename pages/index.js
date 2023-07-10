@@ -90,7 +90,6 @@ export default function Home({ publications }) {
       { section: "about", ref: aboutRef, id: 2 },
       { section: "skills", ref: skillsRef, id: 3 },
       { section: "my-work", ref: myWorkRef, id: 4 },
-      { section: "blog", ref: blogRef, id: 5 },
       { section: "contact", ref: contactRef, id: 6 },
     ];
 
@@ -1246,7 +1245,7 @@ export default function Home({ publications }) {
               })}
             </div>
           </section>
-          
+
           {/* Contact */}
           <section
             className="flex flex-col w-full px-0 md:px-20 lg:px-24 py-28 section"
