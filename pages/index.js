@@ -1246,20 +1246,7 @@ export default function Home({ publications }) {
               })}
             </div>
           </section>
-
-          {/* Blog */}
-          <section
-            className="flex flex-col w-full px-0 md:px-20 lg:px-24 py-28 section"
-            id="blog"
-            ref={blogRef}
-          >
-            {/* Blog header */}
-            <h2 className="text-5xl">Blog</h2>
-            <hr className="bg-brand w-40 h-1.5 mt-4 mb-6 border-0"></hr>
-
-            <BlogList publications={publications} />
-          </section>
-
+          
           {/* Contact */}
           <section
             className="flex flex-col w-full px-0 md:px-20 lg:px-24 py-28 section"
