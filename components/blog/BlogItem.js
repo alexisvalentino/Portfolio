@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function BlogItem({ post }) {
   const redirectToHashnode = () => {
-    window.open("https://medium.com/@alexisvalentino" + post.slug, "_blank");
+    window.open("https://medium.com/@alexisvalentino/" + post.slug, "_blank");
   };
 
   const getDateAdded = () => {
