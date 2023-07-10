@@ -81,7 +81,6 @@ export default function Home({ publications }) {
   const aboutRef = useRef(null);
   const skillsRef = useRef(null);
   const myWorkRef = useRef(null);
-  const blogRef = useRef(null);
   const contactRef = useRef(null);
 
   useEffect(() => {
