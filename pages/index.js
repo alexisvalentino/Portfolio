@@ -309,29 +309,13 @@ export default function Home({ publications }) {
                     target="_blank"
                     rel="noreferrer"
                     className={`header_link text-xl font-semibold transition-all duration-150 ease-in-out ${
-                      visibleSection === "blog"
+                      visibleSection === ""
                         ? "current"
                         : "dark:text-light dark:hover:text-white text-mid/50 hover:text-mid border-b-2 border-transparent"
                     }`}
                     onClick={() => {
                       setNavbarOpen(false);
                       scrollTo(blogRef.current);
-                    }}
-                  >
-                    Blog
-                  </button>
-                </li>
-                <li className="z-50 block py-2 list-none lg:inline-block">
-                  <button
-                    href="#"
-                    className={`header_link text-xl font-semibold transition-all duration-150 ease-in-out ${
-                      visibleSection === "contact"
-                        ? "current"
-                        : "dark:text-light dark:hover:text-white text-mid/50 hover:text-mid border-b-2 border-transparent"
-                    }`}
-                    onClick={() => {
-                      setNavbarOpen(false);
-                      scrollTo(contactRef.current);
                     }}
                   >
                     Contact
