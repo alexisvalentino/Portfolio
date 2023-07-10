@@ -475,19 +475,6 @@ export default function Home({ publications }) {
                       scrollTo(blogRef.current);
                     }}
                   >
-                    Blog
-                  </button>
-                </li>
-                <li className="z-50 hidden mx-5 list-none lg:inline-block">
-                  <button
-                    href="#"
-                    className={`nav-item ${
-                      visibleSection === "contact" ? "current" : "active"
-                    }`}
-                    onClick={() => {
-                      scrollTo(contactRef.current);
-                    }}
-                  >
                     Contact
                   </button>
                 </li>
