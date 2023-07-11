@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "Real-time Threat Detection Robot",
-    overview: "Write reports for your students in 60 seconds or less",
-    stack: ["Html", "React", "Next", "Supabase"],
-    link: "http://www.reportr.io",
+    title: "Real-time Threat Detection",
+    overview: "Real-Time Threat Detection System with Face Recognition, Firearm Detection, and Audio Analysis.",
+    stack: ["Python", "OpenCV", "Tensorflow", "Pytorch"],
+    link: "https://github.com/alexisvalentino/Real-time-threat-detection",
     repo: null,
     isSiteLive: true,
   },
